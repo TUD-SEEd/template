@@ -20,7 +20,7 @@ site:
   options:
     favicon: favicon.ico
     logo: Figuren/site_logo.png
-    folders: true
+    folders: false
   actions:
     - title: report issue
       url: https://github.com/TUD-SEEd/template/issues
