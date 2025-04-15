@@ -18,7 +18,7 @@ project:
 site:
   template: book-theme
   options:
-    favicon: Figuren/favicon.ico
+    favicon: favicon.ico
     logo: Figuren/site_logo.png
     folders: true
   actions:

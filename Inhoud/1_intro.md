@@ -7,11 +7,11 @@ Welkom bij Jupyter Book van IVO! In deze opdracht ga je aan de slag met zelf een
 * Als je toegang hebt, kun je aan de slag met een eigen hoofdstuk maken. De repo waar je toegang toe krijgt vind je [hier](https://github.com/TUD-SEEd/IVO).
 * Klik op *Add file* en *Create a new file*, zie hieronder.
 
-![](./Figuren/newpage.png)
+![](../Figuren/newpage.png)
 
 * Geef je file een naam met als extensie *.md* bijv. *Freek.md*
 
-![](./Figuren/naambestand.PNG)
+![](../Figuren/naambestand.PNG)
 
 * In die file kun je jouw inhoud stoppen / ontwikkelen. 
 * Maak een hoofdstuk titel (# Mijn eerste titel) en een section titel (## Mijn eerste sectie). 
@@ -43,7 +43,7 @@ Volg de volgende stappen om je eigen repository op te zetten.
 
 Het boek wordt nu nog een keer aangemaakt en ingeladen met GitHub pages. 
 
-```{figure} Figuren/rerunjobs.PNG
+```{figure} ../Figuren/rerunjobs.PNG
 ---
 name: fig_rerun
 width: 70%
@@ -54,7 +54,7 @@ Als het boek bouw proces klaar is zijn alle bolletjes groen gekleurd.
 8. Ga via de link (code, rechterkant onder **About**) naar de GitHub page waar het boek online gezet wordt.
 9. De output is gelijk aan {numref}`Figuur {number} <fig_templatebook>` hieronder.
 
-``` {figure} Figuren/templateboekoutput.PNG
+``` {figure} ../Figuren/templateboekoutput.PNG
 ---
 name: fig_templatebook
 width: 100%
