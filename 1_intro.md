@@ -39,7 +39,7 @@ Volg de volgende stappen om je eigen repository op te zetten.
 ```
 5. Klik op `code` en klik op het tandwiel (bij **About**) aan de rechterkant van het scherm. 
 6. Vink **Use your GitHub Pages website** aan.
-7. Ga naar actions in het bovenste menu, klik op de (rode) `inital commit` en klik op `re-run all jobs`
+7. Ga naar actions in het bovenste menu, klik op de (rode) `initial commit` en klik op `re-run all jobs`
 
 Het boek wordt nu nog een keer aangemaakt en ingeladen met GitHub pages. 
 
@@ -54,7 +54,7 @@ Als het boek bouw proces klaar is zijn alle bolletjes groen gekleurd.
 8. Ga via de link (code, rechterkant onder **About**) naar de GitHub page waar het boek online gezet wordt.
 9. De output is gelijk aan {numref}`Figuur {number} <fig_templatebook>` hieronder.
 
-``` {figure} figures/templateboekoutput.PNG
+``` {figure} Figuren/templateboekoutput.PNG
 ---
 name: fig_templatebook
 width: 100%
