@@ -4,6 +4,8 @@ site:
   hide_outline: true
   hide_toc: true
   hide_title_block: true
+downloads:
+  output-pdf
 ---
 
 <div style="text-align: center">
