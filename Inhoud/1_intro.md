@@ -1,7 +1,3 @@
----
-downloads:
-  ../output-pdf
----
 
 # Introductie
 
