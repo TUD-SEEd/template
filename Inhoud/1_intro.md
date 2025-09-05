@@ -1,6 +1,6 @@
 ---
 downloads:
-  output-pdf
+  ../output-pdf
 ---
 
 # Introductie
